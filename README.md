@@ -1,8 +1,9 @@
 ## 欢迎来到科技BOOM
 
-「科技BOOM」微信主页：https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNjI2MTYyMA==&action=getalbum&album_id=1938484715317952513&scene=126#wechat_redirect。
+「科技BOOM」微信主页： [科技BOOM](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNjI2MTYyMA==&action=getalbum&album_id=1938484715317952513&scene=126#wechat_redirect) 
 
-「科技BOOM」知乎首页：https://www.zhihu.com/people/e58f6b6af9086197268769bb814a15cc
+
+「科技BOOM」知乎首页： [科技BOOM](https://www.zhihu.com/people/e58f6b6af9086197268769bb814a15cc)
 
 ＊　Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
